@@ -15,7 +15,7 @@ Request-Logs is a lightweight Node.js application designed to log every HTTP req
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/Request-Logs.git
+    git clone https://github.com/nerdy-nakul/Request-Logs.git
     cd Request-Logs
     ```
 
